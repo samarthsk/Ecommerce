@@ -1,0 +1,5 @@
+com/sam/ecommerce/user_service/entity/User.class
+com/sam/ecommerce/user_service/UserServiceApplication.class
+com/sam/ecommerce/user_service/repository/UserRepository.class
+com/sam/ecommerce/user_service/service/UserService.class
+com/sam/ecommerce/user_service/controller/UserController.class

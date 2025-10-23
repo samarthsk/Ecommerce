@@ -1,0 +1,8 @@
+com/sam/ecommerce/order_service/repository/OrderRepository.class
+com/sam/ecommerce/order_service/OrderServiceApplication.class
+com/sam/ecommerce/order_service/controller/OrderController.class
+com/sam/ecommerce/order_service/config/RabbitMQConfig.class
+com/sam/ecommerce/order_service/service/MessageSender.class
+com/sam/ecommerce/order_service/dto/OrderDTO.class
+com/sam/ecommerce/order_service/entity/Order.class
+com/sam/ecommerce/order_service/service/OrderService.class

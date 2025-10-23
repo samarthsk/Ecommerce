@@ -1,0 +1,5 @@
+com/sam/ecommerce/product_service/ProductServiceApplication.class
+com/sam/ecommerce/product_service/repository/ProductRepository.class
+com/sam/ecommerce/product_service/entity/Product.class
+com/sam/ecommerce/product_service/controller/ProductController.class
+com/sam/ecommerce/product_service/service/ProductService.class
